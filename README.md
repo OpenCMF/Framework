@@ -1,3 +1,3 @@
 # Framework
 
-MKPHP核心框架
+OpenCMF核心框架
