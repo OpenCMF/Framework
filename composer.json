@@ -1,0 +1,22 @@
+{
+  "name": "opencmf/framework",
+  "description": "The OpenCMF Framework.",
+  "type": "library",
+  "keywords": ["php", "OpenCMF","Framework"],
+  "license": "MIT",
+  "homepage": "https://opencmf.makun.com",
+  "authors": [
+    {
+      "name": "Makun",
+      "email": "code@makun.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "mkphp\\core\\": "src/core/"
+    },
+    "files": [
+      "src/functions.php"
+    ]
+  }
+}
