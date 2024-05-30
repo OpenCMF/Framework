@@ -13,7 +13,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "mkphp\\core\\": "src/core/"
+      "opencmf\\core\\": "src/core/"
     },
     "files": [
       "src/functions.php"
